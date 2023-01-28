@@ -1,0 +1,42 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';
+    color:white;
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 400px;  
+        padding: 80px;  
+        background: #23463f;  
+        border-radius: 10px ;  
+}
+button{
+    
+    width: 100px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: black;
+}
+a{
+    color:#00cc66;
+}
+h2{
+    color: #08ffd1;  
+    font-size: 20px;  
+}
+h1{
+    color: #08ffd1 ;
+}
+img{
+    max-width:100%;
+    height:auto;}
+h3{
+    color: black;
+}
